@@ -1,0 +1,15 @@
+---
+title: "Initial Exploratory Analysis"
+author: "Alexander Tuzhikov"
+date: "April 19, 2016"
+output: 
+  html_document: 
+    fig_caption: yes
+    fig_height: 9
+    fig_width: 12
+    highlight: haddock
+    keep_md: yes
+    number_sections: yes
+    theme: cosmo
+    toc: yes
+---
