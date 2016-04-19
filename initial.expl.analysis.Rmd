@@ -13,3 +13,12 @@ output:
     theme: cosmo
     toc: yes
 ---
+
+```{r libs, message=FALSE, warning=FALSE, include=FALSE}
+source("helper.R")
+```
+
+```{r load data, include=FALSE}
+
+```
+
